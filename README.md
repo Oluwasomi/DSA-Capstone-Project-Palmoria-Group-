@@ -46,7 +46,7 @@ A new law mandates a minimum salary of \$90,000 for manufacturing workers.
 7. The total amount to be paid out per region, and the total company-wide payout.
 
 #### Data Analysis
-![image](https://github.com/user-attachments/assets/3a8c721e-743d-4740-8193-22d4321c0d24)
+
 
 
 #### Summary of Key Findings
