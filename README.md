@@ -49,6 +49,8 @@ A new law mandates a minimum salary of \$90,000 for manufacturing workers.
 
 ![image](https://github.com/user-attachments/assets/173a46c9-df94-4172-b631-e89f53fa1833)
 
+![image](https://github.com/user-attachments/assets/f1f3e453-c6c8-4011-8993-fc68f9fbfb5b)
+
 
 
 #### Summary of Key Findings
