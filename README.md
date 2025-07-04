@@ -1,10 +1,10 @@
 ### DSA-Capstone-Project-Palmoria-Group-Analysis 
-
+This project was executed as part of the DSA Capstone to demonstrate analytical thinking and real-world application of data transformation, visualization, and storytelling.
 #### Project Topic: Palmoria Group HR Analysis 
 
 #### Project Overview
 
-This project was conducted as part of the DSA Capstone Program to evaluate and apply data analysis skills using real-world data. The focus is on analyzing HR data from Palmoria Group, a manufacturing company with branches in Lagos, Abuja, and Kaduna.
+The focus is on analyzing HR data from Palmoria Group, a manufacturing company with branches in Lagos, Abuja, and Kaduna.
 
 Palmoria has been accused of gender bias, particularly against its female workforce. This analysis explores the employee dataset to determine the validity of those claims.
 
@@ -56,4 +56,17 @@ A new law mandates a minimum salary of \$90,000 for manufacturing workers.
 - Non-compliance with the N90,000 salary regulation is evident
 
 #### Recommendations
+
+1. Investigate and address salary imbalances, especially where female employees outperform male peers but are paid less especially in Kaduna 
+2. Continue using performance-based bonuses, but ensure transparency
+3. Consider implementing gender pay equity audits periodically
+4. Improve HR data completeness (e.g., gender disclosure, exit tracking)
+5. Ensure compliance with minimum wage regulations
+
+#### Limitations
+
+- Missing Data: Some employees had missing gender or department entries and were removed, which may slightly skew results.
+- No Role or Seniority Info: The dataset lacks job titles or experience levels, so salary gaps can’t be fully explained.
+- Static Snapshot: No time-based data, so trends in promotion or salary growth couldn’t be analyzed.
+
 
