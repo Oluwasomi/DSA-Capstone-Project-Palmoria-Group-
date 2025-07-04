@@ -19,3 +19,16 @@ The primary source of data used here is the Palmoria Group emp data csv and also
   - For visualization
 - Microsoft Excel
   - For preliminary data preview
+
+ ### Data cleaning and preparation 
+
+1. Removed inactive employees (null or missing salary)
+2. Replaced missing genders with "Unspecified"
+3. Dropped rows with null departments
+4. Created a conditional column to convert performance rating to numerical form
+5. Merged bonus rules with employee data via a left join
+6. Created a custom column to calculate total salary = base + bonus
+7. Used bar charts, cards, pie charts, and slicers for visual storytelling
+
+
+
