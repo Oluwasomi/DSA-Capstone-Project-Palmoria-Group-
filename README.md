@@ -10,3 +10,12 @@ Palmoria has been accused of gender bias, particularly against its female workfo
 
 #### Data source
 The primary source of data used here is the Palmoria Group emp data csv and also the bonus rule excel data, which was probided by DSA(The incubator hub)
+
+###  Tools and Techniques Employed
+
+- Power BI[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+  - For data cleaning
+  - For data transformation
+  - For visualization
+- Microsoft Excel
+  - For preliminary data preview
