@@ -11,7 +11,7 @@ Palmoria has been accused of gender bias, particularly against its female workfo
 #### Data source
 The primary source of data used here is the Palmoria Group emp data csv and also the bonus rule excel data, which was probided by DSA(The incubator hub)
 
-###  Tools and Techniques Employed
+#### Tools and Techniques Employed
 
 - Power BI[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - For data cleaning
@@ -20,7 +20,7 @@ The primary source of data used here is the Palmoria Group emp data csv and also
 - Microsoft Excel
   - For preliminary data preview
 
- ### Data cleaning and preparation 
+ #### Data cleaning and preparation 
 
 1. Removed inactive employees (null or missing salary)
 2. Replaced missing genders with "Unspecified"
@@ -30,5 +30,30 @@ The primary source of data used here is the Palmoria Group emp data csv and also
 6. Created a custom column to calculate total salary = base + bonus
 7. Used bar charts, cards, pie charts, and slicers for visual storytelling
 
+#### Exploratory Data Analysis
+1. What is the gender distribution in the organization?
 
+2. Show insights on performance ratings based on gender.
+
+3. Analyze the company's salary structure.
+
+4. Compliance with new salary regulation
+A new law mandates a minimum salary of \$90,000 for manufacturing workers.
+  
+5. Calculate the annual bonus pay for each employee based on their performance rating and department.
+
+6. The total amount to be paid to each employee (salary + bonus).
+7. The total amount to be paid out per region, and the total company-wide payout.
+
+#### Data Analysis
+
+#### Summary of Key Findings
+
+- Gender pay gaps exist, particularly in Kaduna
+-  Female employees are rated higher but earn less
+- Bonus allocation appears fair and performance-driven
+- Legal and Accounting departments need equity reviews as there is a clear gap between the numbers of male employees and female employees and also in payments
+- Non-compliance with the N90,000 salary regulation is evident
+
+#### Recommendations
 
